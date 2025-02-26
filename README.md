@@ -1,19 +1,20 @@
+# Hardware - MiniSensor
 A package combining temperature and humidity sensors, a motion detector, a door sensor, and a panic button.
 
-# Technical Specifications:
+# Technical Specifications
 - Product Name: MiniSensor
-- Size:
+## Size:
 - Big Part: 7 × 2 × 2.5 cm
 - Small Part: 5 × 1 × 1 cm
-- Weight:
+## Weight:
 - Big Part: 22 g
 - Small Part: 4 g
-- Communication: 2.4 GHz Wi-Fi
-- Operating Voltage: 5V to 12V DC
-- Current Consumption: 500 mA
-- Power Consumption: 0.6 Wh
-- Operating Temperature Range: -10°C to +60°C
-- Humidity Range: 1% to 100% RH
+## Communication: 2.4 GHz Wi-Fi
+## Operating Voltage: 5V to 12V DC
+## Current Consumption: 500 mA
+## Power Consumption: 0.6 Wh
+## Operating Temperature Range: -10°C to +60°C
+## Humidity Range: 1% to 100% RH
 
 # Folder Description
 - BIN_MiniSensor: Contains the binary files of the MiniSensor source code.
