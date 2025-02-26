@@ -1,7 +1,7 @@
 # Hardware-MiniSensor
 
 # Technical Specifications:
-- Product Name: zk-MiniSensor
+- Product Name: MiniSensor
 - Size: Big Part 7x2x2.5 cm; Small Part 5x1x1 cm
 - Weight: Big Part 22 g; Small Part 4 g
 - Communication: 2.4 GHz Wi-Fi
