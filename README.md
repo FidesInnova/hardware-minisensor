@@ -12,6 +12,10 @@
 - Humidity Range: 1% to 100% RH
 
 # Folder Description
-- BIN_MiniSensor: Binary files of the source code in the MiniSensor folder
-- MiniSensor: The source code of the MiniSensor to operate stand alne and send data via Wi-Fi
-- IOT2050_MiniSensor: The source code of the MiniSensor to operate with Simense IOT2050 and send data via its USB-CDC UART port 
+- BIN_MiniSensor: Binary files of the source code in the MiniSensor folder.
+- MiniSensor: The source code of the MiniSensor to operate stand alne and send data via Wi-Fi. The code is developed using Arduino IDE.
+- IOT2050_MiniSensor: The source code of the MiniSensor to operate with Simense IOT2050 and send data via its USB-CDC UART port. The code is developed using Arduino IDE.
+- PCB: The PCB folder contains the schematic and the PCB of the MiniSensor. Designed using Altium designer.
+- BIN_MiniSensor.zip: The zip version of the BIN_MiniSensor folder.
+
+Next action: Create GSD file to add it Simense TIA Portal.
